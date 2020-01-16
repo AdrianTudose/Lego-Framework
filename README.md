@@ -1,6 +1,9 @@
 # Lego Framework
-Tudose Adrian
-Susan Claudiu
-Chirica Bianca
-Carp Bianca
-Ilie Paul
+<ul>
+  <li>Tudose Adrian</li>
+<li>Susan Claudiu</li>
+<li>Chirica Bianca</li>
+<li>Carp Bianca</li>
+<li>Ilie Paul</li>
+  </ul>
+ 
